@@ -1,0 +1,92 @@
+{
+    "editor.unicodeHighlight.nonBasicASCII": false,
+    "bracket-pair-colorizer-2.depreciation-notice": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "explorer.compactFolders": false,
+    "json.schemas": [
+        {
+            "fileMatch": [
+                "/myfile"
+            ],
+            "url": "schemaURL"
+        }
+    ],
+    "psi-header.variables": [
+        [
+            "projectCreationYear",
+            "2022"
+        ]
+    ],
+    "psi-header.templates": [
+        {
+            "language": "*",
+            "template": [
+                "***********************************************************************************************************",
+                "File Name: <<filename>>",
+                "Project: T31 Ingenic",
+                "File Created: <<filecreated('DD-MM-YYYY  hh:mm:ss:A')>>",
+                "Author: KhangKT",
+                "AuthorEmail: khangkieutrong@gmail.com",
+                // "Phone:0964991713"
+                "***********************************************************************************************************",
+            ]
+        }
+    ],
+    "http.proxyAuthorization": null,
+    "git.enableSmartCommit": true,
+    "workbench.iconTheme": "vscode-icons",
+    "cSpell.enabledLanguageIds": [
+        "asciidoc",
+        "c",
+        "cpp",
+        "csharp",
+        "css",
+        "elixir",
+        "erlang",
+        "git-commit",
+        "go",
+        "graphql",
+        "handlebars",
+        "haskell",
+        "html",
+        "jade",
+        "java",
+        "javascript",
+        "javascriptreact",
+        "json",
+        "jsonc",
+        "jupyter",
+        "latex",
+        "less",
+        "markdown",
+        "php",
+        "plaintext",
+        "python",
+        "pug",
+        "restructuredtext",
+        "rust",
+        "scala",
+        "scss",
+        "scminput",
+        "swift",
+        "text",
+        "typescript",
+        "typescriptreact",
+        "vue",
+        "yaml",
+        "yml",
+        "txt"
+    ],
+    "workbench.colorCustomizations": {},
+    "cSpell.userWords": [
+        "getvideostream",
+        "Khang",
+        "khangkt"
+    ],
+    "debug.javascript.resourceRequestOptions": {},
+    "cSpell.customDictionaries": {},
+    "files.autoSave": "afterDelay",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.minimap.enabled": false,
+    "gitlens.blame.dateFormat": ""
+}
