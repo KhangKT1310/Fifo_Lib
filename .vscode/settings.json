@@ -88,5 +88,12 @@
     "files.autoSave": "afterDelay",
     "liveServer.settings.donotShowInfoMsg": true,
     "editor.minimap.enabled": false,
-    "gitlens.blame.dateFormat": ""
+    "gitlens.blame.dateFormat": "",
+    "files.associations": {
+        "msg.h": "c",
+        "unordered_map": "c",
+        "libmyfifo.h": "c",
+        "array": "c",
+        "string_view": "c"
+    }
 }
